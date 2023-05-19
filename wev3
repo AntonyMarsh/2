@@ -1,1 +1,3 @@
-
+int[] numbers = { 5, 8, 2, 10, 3 };
+int max = numbers.Max();
+Console.WriteLine(max);
